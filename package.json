@@ -1,0 +1,23 @@
+{
+  "name": "escposencoder",
+  "version": "1.0.0",
+  "description": "EscPosEncoder for JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matijagalina/EscPosEncoder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matijagalina/EscPosEncoder/issues"
+  },
+  "homepage": "https://github.com/matijagalina/EscPosEncoder#readme",
+  "dependencies": {
+    "iconv-lite": "^0.6.2",
+    "linewrap": "^0.2.1"
+  }
+}
