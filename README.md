@@ -1,0 +1,2 @@
+# EscPosEncoder
+EscPosEncoder for JS
